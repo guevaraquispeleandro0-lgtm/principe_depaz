@@ -1,0 +1,7 @@
+- [x] Update styles.css with formal color scheme (keep red, reduce shadows, border-radius)
+- [x] Change fonts to more formal: Times New Roman for headings, Arial for body
+- [x] Reduce border-radius and shadows for cleaner look
+- [x] Increase font sizes and spacing for better readability
+- [x] Fix script.js: Remove email validation since email field not present
+- [x] Make header fixed and thinner
+- [x] Test the website locally to ensure formal appearance
